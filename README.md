@@ -1,2 +1,2 @@
-# project-calc-css
-Projeto de calculadora em CSS
+# Projeto de Calculadora em CSS ⭐
+## Este projeto eu fiz para treinar estilização em CSS 😃
